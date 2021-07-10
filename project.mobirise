@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700"
       }
     ],
-    "imageResize": true,
+    "imageResize": false,
     "chatbutton": {
       "phone": "+56934863816",
       "message": "",
@@ -64,25 +64,28 @@
       "enabled": true
     },
     "favicon": false,
-    "mbrsiteDomain": "tf3td6lqxw",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "mbrsiteDomain": "kwcjwyfbjp",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://gallardoabogados.cl",
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 0,
-    "versionPublish": "5.3.10"
+    "versionPublish": "5.3.10",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Gallardo Abogados",
+        "meta_descr": "Servicios de Familia",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/p1030525.jpg"
       },
       "components": [
         {
