@@ -2,7 +2,7 @@ body {
   font-family: Quicksand;
 }
 .display-1 {
-  font-family: 'Permanent Marker', handwriting;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 5.63rem;
   line-height: 1;
   font-weight: 700;
@@ -12,7 +12,7 @@ body {
   font-size: 9.008rem;
 }
 .display-2 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
   font-size: 2.75rem;
   line-height: 1.2;
   font-weight: 700;
@@ -1144,7 +1144,7 @@ a {
   transform: rotate(-90deg);
 }
 .cid-rUTuXtqKzG .navbar-caption {
-  font-family: 'Permanent Marker', handwriting;
+  font-family: 'Titillium Web', sans-serif;
 }
 @media (max-width: 992px) {
   .cid-rUTuXtqKzG .nav-dropdown .link {
@@ -1241,10 +1241,10 @@ a {
 .cid-rUTuXK8G54 {
   padding-top: 270px;
   padding-bottom: 270px;
-  background-image: url("../../../assets/images/john3-3-2000x1429.png");
+  background-image: url("../../../assets/images/p1030544-2000x1334.jpeg");
 }
 .cid-rUTuXK8G54 .mbr-section-title {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
 }
 .cid-rUTuXK8G54 .promo-primary-description {
   position: absolute;
@@ -1254,7 +1254,7 @@ a {
 }
 .cid-rUTuXK8G54 .mbr-section-subtitle {
   margin-bottom: 1rem;
-  font-family: 'Permanent Marker', handwriting;
+  font-family: 'Titillium Web', sans-serif;
 }
 .cid-rUTuXK8G54 .container::before {
   content: "";
